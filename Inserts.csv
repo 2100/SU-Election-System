@@ -1,0 +1,7 @@
+id,fname,midname,lname,department,year,votedsu,votedaudit,studentunion_groupid
+NULL,Ahmed,Adel,"Abdel Maksoud",TIC,4,NULL,NULL,1
+NULL,Ahmed,Yasser,Sayed,TIC,4,NULL,NULL,1
+NULL,Mark,Amir,Ibrahim,TIC,4,NULL,NULL,1
+NULL,Mohamed,Mahmoud,ElMohamadi,TIC,4,NULL,NULL,2
+NULL,Sandra,Medhat,Saad,TIC,4,NULL,NULL,2
+NULL,Wael,Zakaria,Abballah,TIC,4,NULL,NULL,2
